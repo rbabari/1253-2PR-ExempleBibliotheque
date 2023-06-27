@@ -1,6 +1,5 @@
-
-
-
+# Exercice :
+# Hopital, listeClien, listeMedecin, listeRDV, ListeLocaux
 
 # test pour document
 from Document import Document, Livre, Journal
